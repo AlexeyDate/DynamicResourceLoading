@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResourceLoading</string>
+    <string name="info">This application shows how work dynamic resource loading</string>
+    <string name="keyboardText">Click here to open the keyboard</string>
+    <string name="landscape">Orientation changed on landscape</string>
+    <string name="portrait">Orientation changed on portrait</string>
+    <string name="keyboard">Keyboard visible</string>
+
+</resources>

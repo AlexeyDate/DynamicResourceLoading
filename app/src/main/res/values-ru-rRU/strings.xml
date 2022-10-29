@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ЗагрузкаРесурсов</string>
+    <string name="info">Это приложение показывает, как работает динамическая загрузка ресурсов</string>
+    <string name="keyboardText">Нажмите для открытия клавиатуры</string>
+    <string name="landscape">Переход на ландшафтный режим</string>
+    <string name="portrait">Переход на портретный режим</string>
+    <string name="keyboard">Клавиатура видна</string>
+</resources>
